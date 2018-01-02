@@ -1,0 +1,30 @@
+{
+  "name": "fishcord",
+  "version": "0.0.1",
+  "description": "A shitty discord lib. Don't try to use this for anything at all atm",
+  "main": "/lib/index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "node ./tests/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tacomatron/fishcord.git"
+  },
+  "keywords": [
+    "fishcord",
+    "fish",
+    "discord",
+    "discordlib",
+    "discord",
+    "api"
+  ],
+  "author": "foxed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tacomatron/fishcord/issues"
+  },
+  "homepage": "https://github.com/tacomatron/fishcord#readme"
+}
